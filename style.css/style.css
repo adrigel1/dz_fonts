@@ -1,25 +1,49 @@
 body{
   font-family: 'Manrope', sans-serif;
 }
+
+.interior_title{
+  width: 1150px;
+  height: 500px;
+  background-image: url(../resources/fotofon_1.png);
+  margin-left: 125px;
+  margin-right: 125px;
+}
+
 h2, h3, p{
   line-height: normal;
   font-weight: 400;
   color: #121212;
 }
+
 h1 {
   font-size: 60px;
   font-weight: 400;
+  text-align: left;
+  font-style: normal;
   line-height: 60px;
+  margin-left: 125px;
+  margin-bottom: 30px;
 }
+
 h2 {
   font-size: 45px;
 }
+
 h3 {
   font-size: 18px;
+  margin-left: 125px;
+  margin-bottom: 30px;
 }
+
 p {
   font-size: 20px;
+  color: #fff;
+  margin-left: 165px;
+  margin-bottom: 190px;
+
 }
+
 a{
   display: block;
   border: 1px solid red;
@@ -32,6 +56,7 @@ a{
   line-height: 67px;
   text-decoration: none;
 }
+
 a:hover{
 color: red;
 background-color: #fff;
