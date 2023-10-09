@@ -1,0 +1,38 @@
+body{
+  font-family: 'Manrope', sans-serif;
+}
+h2, h3, p{
+  line-height: normal;
+  font-weight: 400;
+  color: #121212;
+}
+h1 {
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 60px;
+}
+h2 {
+  font-size: 45px;
+}
+h3 {
+  font-size: 18px;
+}
+p {
+  font-size: 20px;
+}
+a{
+  display: block;
+  border: 1px solid red;
+  width: 255px;
+  height: 67px;
+  color: #fff;
+  font-size: 20px;
+  background-color: red;
+  text-align: center;
+  line-height: 67px;
+  text-decoration: none;
+}
+a:hover{
+color: red;
+background-color: #fff;
+}
